@@ -2,8 +2,6 @@
 
 # This repository is a modification of the original ESP32 repository of Espressif (https://github.com/espressif/arduino-esp32.git)
 
-### Need help or have a question? Join the chat at [![https://gitter.im/espressif/arduino-esp32](https://badges.gitter.im/espressif/arduino-esp32.svg)](https://gitter.im/espressif/arduino-esp32?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## Contents
 
 - [ESP32-S2 and ESP32-C3 Support](#esp32-s2-and-esp32-c3-support)
